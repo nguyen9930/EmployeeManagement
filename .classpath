@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="QuanLyNhanSu/src"/>
+	<classpathentry kind="lib" path="QuanLyNhanSu/dist/lib/quaqua.jar"/>
+	<classpathentry kind="lib" path="QuanLyNhanSu/dist/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="QuanLyNhanSu/dist/lib/swingx-2010_04_18.jar"/>
+	<classpathentry kind="lib" path="QuanLyNhanSu/dist/QuanLyNhanSu.jar"/>
+	<classpathentry kind="output" path="QuanLyNhanSu/build/classes"/>
+</classpath>

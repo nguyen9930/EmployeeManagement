@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="lib">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/org-jdesktop-swingx.jar/org-jdesktop-swingx.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QuanLyNhanSu/dist/lib/quaqua.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyNhanSu/dist/lib/sqljdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyNhanSu/dist/lib/swingx-2010_04_18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyNhanSu/dist/QuanLyNhanSu.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/swing-layout-1.0.4.jar/swing-layout-1.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/org-jdesktop-swingx.jar/org-jdesktop-swingx.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/org-jdesktop-swingx.jar/org-jdesktop-swingx.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/org-jdesktop-swingx.jar/org-jdesktop-swingx.jar!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/org-jdesktop-swingx.jar/org-jdesktop-swingx.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Downloads/org-jdesktop-swingx.jar/org-jdesktop-swingx.jar!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/org-jdesktop-swingx.jar/org-jdesktop-swingx.jar!/" recursive="false" type="SOURCES" />
+  </library>
+</component>
